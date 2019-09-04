@@ -1,0 +1,7 @@
+name "sgrecover"
+description "A recovery program for sg devices"
+authors "Sebastiaan de Schaetzen"
+copyright "Copyright © 2019, Sebastiaan de Schaetzen"
+license "GPL-2.0"
+dependency "cli-d" version="~>0.1.1"
+dependency "termbox" version="~>0.0.5"

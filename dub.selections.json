@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"cli-d": "0.1.1",
+		"termbox": "0.0.5"
+	}
+}

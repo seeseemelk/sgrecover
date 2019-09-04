@@ -1,0 +1,4 @@
+*.img
+*.map
+/.dub
+/sgrecover
